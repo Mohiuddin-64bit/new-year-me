@@ -1,4 +1,4 @@
-# Panda-Commerce
+# New Year Resolution
 Welcome to my New Year Resolution website, built with HTML5 and CSS3,
 
 ## :rocket: Getting Started
