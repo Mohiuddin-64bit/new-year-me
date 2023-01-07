@@ -12,6 +12,7 @@ header {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  margin-bottom: 139px;
 }
 
 .banner-contant {
@@ -47,4 +48,46 @@ header {
   border: none;
   color: white;
   font-weight: 600;
+}
+
+/* Failures Style */
+.failures {
+  display: flex;
+  justify-content: center;
+  gap: 87px;
+  margin-bottom: 130px;
+  align-items: center;
+}
+
+.failures-contant {
+  width: 416px;
+  margin-top: 225px;
+  height: 400px;
+}
+
+.failures-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+
+.failures-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+  margin-bottom: 10px;
+}
+
+.failures-point {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444343;
+}
+
+.failures-img {
+  width: 451px;
 }
