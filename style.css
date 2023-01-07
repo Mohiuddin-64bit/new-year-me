@@ -91,3 +91,41 @@ header {
 .failures-img {
   width: 451px;
 }
+
+/* Plan Style */
+.plan {
+  text-align: center;
+  margin-bottom: 130px;
+}
+
+.plan-contant {
+  display: flex;
+  margin-top: 56px;
+  justify-content: center;
+  gap: 100px;
+}
+.plan-icon{
+  margin-bottom: 35px;
+}
+.plan-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+}
+
+.plan-name {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+}
+
+.plan-status {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
