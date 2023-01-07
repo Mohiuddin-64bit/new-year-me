@@ -12,4 +12,6 @@ To view the site, simply clone this repository and open the **`index.html`** fil
 * Customized styles using CSS
 * E-mail submission form for updates and newsletters
 
+* Live Link :link: https://mohiuddin-64bit.github.io/new-year-me/
+
 ## Thank you for visiting My New year Resolution website! We hope you find everything you're looking for and more.
