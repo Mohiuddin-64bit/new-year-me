@@ -104,9 +104,11 @@ header {
   justify-content: center;
   gap: 100px;
 }
-.plan-icon{
+
+.plan-icon {
   margin-bottom: 35px;
 }
+
 .plan-title {
   font-weight: 700;
   font-size: 40px;
@@ -128,4 +130,126 @@ header {
   line-height: 29px;
   text-align: center;
   color: #737272;
+}
+
+/* Card bar style */
+
+.card-bar {
+  width: 1140px;
+  height: 300px;
+  background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url("./img/watch.png");
+  margin: auto;
+  position: relative;
+  border-radius: 8px;
+}
+
+.card-contant {
+  position: absolute;
+  width: 450px;
+  top: 75px;
+  left: 64px;
+}
+
+.card-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #FFFFFF;
+  margin-bottom: 24px;
+}
+
+.card-btn {
+  width: 160px;
+  height: 64px;
+  background: #FFFFFF;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #F15B22;
+  border: none;
+}
+
+footer {
+  width: 100%;
+  height: 577px;
+  background: #151414;
+  margin-top: 130px;
+  color: white;
+}
+
+.footer-data {
+  display: flex;
+  gap: 331px;
+  justify-content: center;
+
+  padding-top: 130px;
+}
+
+.contact-data {
+  /* width: 485px;
+  height: 317px; */
+}
+
+.contact-title {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  color: #F8F8F8;
+  margin-bottom: 16px;
+}
+
+.contact-desc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+  width: 485px;
+  height: 78px;
+
+}
+
+.contact-info {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+  padding-top: 16px;
+}
+
+.contact-icon {
+  margin-top: 32px;
+}
+
+.news-title {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 53px;
+  color: #F8F8F8;
+  margin-bottom: 31px;
+}
+
+.email {
+  width: 325px;
+  height: 64px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  background-color: #151414;;
+  border: 1px solid #FFFFFF;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  
+}
+
+.subscribe-btn {
+  width: 170.11px;
+  height: 64px;
+  background: #FFFFFF;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #F15B22;
+  border-radius: 8px;
 }
