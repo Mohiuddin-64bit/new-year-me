@@ -12,4 +12,5 @@ To view the site, simply clone this repository and open the **`index.html`** fil
 * Customized styles using CSS
 * E-mail submission form for updates and newsletters
 
-## Thank you for visiting My New year Resolution website! We hope you find everything you're looking for and more.
+
+#### Thank you for visiting My New year Resolution website! We hope you find everything you're looking for and more.

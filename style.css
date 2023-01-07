@@ -147,12 +147,12 @@ header {
 .books-contant{
   display: flex;
   justify-content: center;
-  gap: 80px;
+  gap: 30px;
 }
 .display-books{
   background-color: aliceblue;
   border-radius: 5px;
-  box-shadow: 10px 10px 18px rgb(88, 88, 88);
+  box-shadow: 3px 3px 10px rgb(88, 88, 88);
   height: 480px;
   width: 240px;
   padding: 30px 30px;
