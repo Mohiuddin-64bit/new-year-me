@@ -131,7 +131,52 @@ header {
   text-align: center;
   color: #737272;
 }
+/* Reading books style */
+.books{
+  margin-bottom: 123px;
+  
+}
+.books-title{
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  color: #151414;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.books-contant{
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.display-books{
+  background-color: aliceblue;
+  border-radius: 5px;
+  box-shadow: 10px 10px 18px rgb(88, 88, 88);
+  height: 480px;
+  width: 240px;
+  padding: 30px 30px;
+}
+.books-img{
+  width: 150px;
+  padding: 15px 0;
+  height: 200px;
+  border-radius: 10px ;
+}
+.books-name{
+  font-size: 20px;
+  font-weight: 700;
+}
+.short-desc{
+  text-align: left;
+  padding: 15px 0;
+  color: #737272;
+}
+.books-author{
+  padding: 15px 0;
+  text-align: center;
 
+}
 /* Card bar style */
 
 .card-bar {
@@ -187,11 +232,6 @@ footer {
   padding-top: 130px;
 }
 
-.contact-data {
-  /* width: 485px;
-  height: 317px; */
-}
-
 .contact-title {
   font-weight: 700;
   font-size: 45px;
@@ -236,11 +276,12 @@ footer {
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
-  background-color: #151414;;
+  background-color: #151414;
+  ;
   border: 1px solid #FFFFFF;
   border-radius: 8px;
   margin-bottom: 16px;
-  
+
 }
 
 .subscribe-btn {
