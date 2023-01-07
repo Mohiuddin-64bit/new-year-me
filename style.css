@@ -156,6 +156,14 @@ header {
   height: 480px;
   width: 240px;
   padding: 30px 30px;
+  cursor: pointer;
+}
+.display-books:hover{
+  background-color: rgba(132, 194, 248, 0.548);
+  transition: .3s all ease;
+  transform: scale(1.06);
+  box-shadow: 1px 1px 5px rgba(88, 88, 88, 0.637);
+  
 }
 .books-img{
   width: 150px;
